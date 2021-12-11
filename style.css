@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+h1{
+    margin: 10px 650px;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+    margin: 0 10px;
+    line-height: 60px;
+}
+
+a:hover{
+    text-decoration: blink;
+    font-size: 21px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+
+p{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
